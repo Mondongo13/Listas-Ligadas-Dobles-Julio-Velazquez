@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ListaDoble
+comment0.text=\r\n\ Clase\ que\ define\ una\ lista\ doblemente\ enlazada.\r\n
+comment1.params=
+comment1.target=ListaDoble()
+comment2.params=valor
+comment2.target=Nodo\ buscarPorValor(java.lang.String)
+comment3.params=valor\ nuevoDato
+comment3.target=void\ insertarDespuesDe(java.lang.String,\ java.lang.String)
+comment4.params=valor1\ valor2
+comment4.target=boolean\ intercambiarNodos(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ imprimir()
+numComments=6
